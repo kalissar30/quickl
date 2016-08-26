@@ -1,0 +1,5 @@
+Quickl is a Python package used for automating small tasks by invoking commands.
+
+To create a command, just copy the cmd_example folder located in quickl/commands
+and implement the command function.
+You can pass additionnal arguments with the click package.
